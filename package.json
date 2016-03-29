@@ -9,7 +9,7 @@
     "snippets",
     "atom"
   ],
-  "repository": "https://github.com/atom/elm-snippets",
+  "repository": "https://github.com/chiefGui/atom-elm-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
