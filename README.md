@@ -1,8 +1,8 @@
 # Elm snippets for Atom
 
-Adding shortcuts to your day-by-day programming in Elm on Atom.
+Adding some shortcut sugar to your day-by-day programming in Elm on Atom.
 
-_Disclaimer: this package is in early stage. I'm not covering all cases as possible, but the most ones by me. Feel free to PR!_
+_Disclaimer: this package is in early stage. I'm not covering all the possible scenarios, but the most ones used by me. Feel free to PR!_
 
 ### Install
 
