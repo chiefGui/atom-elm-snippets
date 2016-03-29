@@ -1,0 +1,8 @@
+".source.elm":
+  "case of":
+    "prefix": "cof"
+    "body": """
+    case ${1:something} of
+      ${2:Condition} ->
+        ${3}
+    """

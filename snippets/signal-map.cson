@@ -1,0 +1,4 @@
+".source.elm":
+  "Signal map":
+    "prefix": "sigma"
+    "body": "Signal.map ${1:(a -> b)} ${2:Signal a}";

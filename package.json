@@ -1,0 +1,19 @@
+{
+  "name": "elm-snippets",
+  "main": "./lib/elm-snippets",
+  "version": "0.1.0",
+  "description": "Elm snippets for Atom",
+  "keywords": [
+    "elm",
+    "elm-snippets",
+    "snippets",
+    "atom"
+  ],
+  "repository": "https://github.com/atom/elm-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

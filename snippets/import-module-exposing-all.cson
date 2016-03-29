@@ -1,0 +1,4 @@
+".source.elm":
+  "import module":
+    "prefix": "impea"
+    "body": "import ${1:module name} exposing (..)";

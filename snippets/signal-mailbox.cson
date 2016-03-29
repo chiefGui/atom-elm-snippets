@@ -1,0 +1,4 @@
+".source.elm":
+  "Signal map":
+    "prefix": "sigmb"
+    "body": "Signal.mailbox \"${1:}\"";

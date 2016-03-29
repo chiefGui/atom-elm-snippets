@@ -1,0 +1,4 @@
+".source.elm":
+  "import as":
+    "prefix": "impas"
+    "body": "import ${1:module name} as ${2:alias}";

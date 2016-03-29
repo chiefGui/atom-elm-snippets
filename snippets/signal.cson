@@ -1,0 +1,4 @@
+".source.elm":
+  "Signal":
+    "prefix": "sig"
+    "body": "Signal";

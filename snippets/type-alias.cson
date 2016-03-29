@@ -1,0 +1,7 @@
+".source.elm":
+  "type alias":
+    "prefix": "ta"
+    "body": """
+    type alias ${1:name} =
+      ${2}
+    """
