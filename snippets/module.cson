@@ -1,4 +1,4 @@
 ".source.elm":
   "module":
     "prefix": "mod"
-    "body": "module ${1:name} (..) where";
+    "body": "module ${1:name} exposing (..)";
